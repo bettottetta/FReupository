@@ -1,2 +1,2 @@
-# FReupository
+# FRepository
 My first repository
